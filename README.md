@@ -1,4 +1,7 @@
 # SearchSLCM
+
+UPDATE: Doesn't work anymore since they changed the login framework for the hostel page on the website.
+
 A quick search engine for SLCM
 Student Data available-
 1)Roll number
