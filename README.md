@@ -15,4 +15,4 @@ It has two modes,
 
 Group search lets you save a group of roll numbers into a txt file, after defining the start roll number and amount of roll numbers needed.
 
-It skips roll numbers on which no student data exists.
+It skips roll numbers on which no student data exists...
